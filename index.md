@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Andin
 
-You can use the [editor on GitHub](https://github.com/ubipo/andin-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*Indoor building viewing & navigation*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Andin helps you navigate complicated buildings by providing a map of the building's floors, a 3D view of it's rooms, and interactive navigation directions.
 
-### Markdown
+![Banner](banner.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Screenshots
 
-```markdown
-Syntax highlighted code block
+Screenshot 1             |  Screenshot 2
+:-------------------------:|:-------------------------:
+![Screenshot 1](images/screenshot01.jpg)  |  ![Screenshot 2](images/screenshot02.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+### Source code
 
-- Bulleted
-- List
+Andin is open source software, its code can be found on [https://github.com/ubipo/andin-android](https://github.com/ubipo/andin-android)
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
+Questions about the app? Email [pieter@pfiers.net](mailto:pieter@pfiers.net)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ubipo/andin-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://pfiers.net
