@@ -1,4 +1,4 @@
-## Andin
+# Andin
 
 *Indoor building viewing & navigation*
 
@@ -6,17 +6,17 @@ Andin helps you navigate complicated buildings by providing a map of the buildin
 
 ![Banner](images/banner.png)
 
-### Screenshots
+## Screenshots
 
 Screenshot 1             |  Screenshot 2
 :-------------------------:|:-------------------------:
 ![Screenshot 1](images/screenshot01.jpg)  |  ![Screenshot 2](images/screenshot02.jpg)
 
-### Source code
+## Source code
 
 Andin is open source software, its code can be found on [https://github.com/ubipo/andin-android](https://github.com/ubipo/andin-android)
 
-### Contact
+## Contact
 
 Questions about the app? Email [pieter@pfiers.net](mailto:pieter@pfiers.net)
 
