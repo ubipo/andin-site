@@ -4,7 +4,7 @@
 
 Andin helps you navigate complicated buildings by providing a map of the building's floors, a 3D view of it's rooms, and interactive navigation directions.
 
-![Banner](banner.png)
+![Banner](images/banner.png)
 
 ### Screenshots
 
@@ -20,4 +20,4 @@ Andin is open source software, its code can be found on [https://github.com/ubip
 
 Questions about the app? Email [pieter@pfiers.net](mailto:pieter@pfiers.net)
 
-https://pfiers.net
+[https://pfiers.net](https://pfiers.net)
